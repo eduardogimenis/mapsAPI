@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 # Load API key from environment variable
 load_dotenv()
-API_KEY = "AIzaSyAeOL_45HwFP4APyRYk9LWT6afSdtpOE5g"
+API_KEY = "#######################"
 
 if not API_KEY:
     raise ValueError("Google Maps API key is missing. Add it to a .env file as GOOGLE_MAPS_API_KEY.")
