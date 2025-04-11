@@ -1,7 +1,7 @@
 # About the Project
 This project is a Python tool I built to automate the process of collecting business information from Google Maps based on location & search terms (in source code it searches for beauty salons).
 
-Originally made to help a family business look up nearby beauty salons, but it is easily extendable to any type of business.
+Originally made to help a family business look up nearby beauty salons, but it is easily extendable to any type of business. I have, for example, done it for a few for other local partners of the business.
 
 Takes a bunch of locations, searches around them, and spits out a clean CSV file with all the info you'd want:
 
