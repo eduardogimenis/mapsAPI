@@ -28,4 +28,4 @@ Learning-wise, this was also a good way for me to practice:
 - CSV for output
 
 # GUI
-![GUI](https://github.com/eduardogimenis/mapsAPI/blob/main/images/mapsAPI_GUI.png)
+![GUI](https://github.com/eduardogimenis/mapsAPI/blob/main/images/GmapsAPI_GUI.png)
