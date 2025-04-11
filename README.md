@@ -1,5 +1,5 @@
 # About the Project
-This project is a Python tool I built to automate the process of collecting business information from Google Maps based on location & search terms.
+This project is a Python tool I built to automate the process of collecting business information from Google Maps based on location & search terms (in source code it searches for beauty salons).
 
 Originally made to help a family business look up nearby beauty salons, but it is easily extendable to any type of business.
 
@@ -28,4 +28,4 @@ Learning-wise, this was also a good way for me to practice:
 - CSV for output
 
 # GUI
-![GUI](https://github.com/eduardogimenis/mapsAPI/blob/main/images/GmapsAPI_GUI.png)
+![GUI](https://github.com/eduardogimenis/mapsAPI/blob/main/images/mapsAPI_GUI.png)
